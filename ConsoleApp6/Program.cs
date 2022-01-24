@@ -6,7 +6,9 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eh"); 
+            Console.WriteLine("how tall are you");
+            int height = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"pffftttt {height}");
         }
     }
 }
