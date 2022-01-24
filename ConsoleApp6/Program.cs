@@ -6,7 +6,9 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ggggggggggggggg");
+            Console.WriteLine("how many years you got");
+            int age = Console.ReadLine();
+            Console.WriteLine($"{age} damn you a boomer tho");
         }
           
     }   
