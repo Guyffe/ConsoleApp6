@@ -6,7 +6,8 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("eh"); 
+            Console.WriteLine("ggggggggggggggg");
         }
-    }
+          
+    }   
 }
